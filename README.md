@@ -2,7 +2,7 @@
 
 ## 🎯 Introduction
 
-In this project, we have done three tasks related to ICC Cricket World Cup 2023. 
+In this project, three tasks related to ICC Cricket World Cup 2023 have been dobne. 
 
 ##  ✨ Task1_1 Maximum runs scorer(Batsman)
 
