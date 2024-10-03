@@ -1,4 +1,4 @@
-# Cricket_Runs_Predictor
+# ScoreVision - Player Score Predictor
 
 ## 🎯 Introduction
 
